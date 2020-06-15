@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Nov 19 10:51:30 2019
-@author: Michael Frangos - MihalyImportant@yahoo.com
+@author: Michael Frangos
 """
 import matplotlib.pyplot as plt
 import pandas as pd
